@@ -1,3 +1,3 @@
 # pyrhyme
 
-A simple Python program that find rhyming words.
+A simple Python program that finds rhyming words.
